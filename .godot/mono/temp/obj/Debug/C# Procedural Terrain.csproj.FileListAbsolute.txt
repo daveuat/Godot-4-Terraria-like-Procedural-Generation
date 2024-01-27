@@ -1,0 +1,17 @@
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.csproj.AssemblyReference.cache
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.AssemblyInfoInputs.cache
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.AssemblyInfo.cs
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.csproj.CoreCompileInputs.cache
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\C# Procedural Terrain.deps.json
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\C# Procedural Terrain.runtimeconfig.json
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\C# Procedural Terrain.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\C# Procedural Terrain.pdb
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\GodotSharp.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.csproj.CopyComplete
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\refint\C# Procedural Terrain.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.pdb
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.genruntimeconfig.cache
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\ref\C# Procedural Terrain.dll

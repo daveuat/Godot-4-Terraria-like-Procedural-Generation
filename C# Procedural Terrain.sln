@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Procedural Terrain", "C# Procedural Terrain.csproj", "{FCD75D39-4713-4280-AA6C-AF5A4B43911A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{FCD75D39-4713-4280-AA6C-AF5A4B43911A}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

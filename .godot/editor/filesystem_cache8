@@ -1,0 +1,24 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706245063
+coords.json::JSON::-1::1706239472::0::1::::<><>::
+icon.svg::CompressedTexture2D::5967070362971871455::1706239472::1706239491::1::::<><>::
+Level.tscn::PackedScene::2069666997571037998::1706245035::0::1::::<><>::uid://dn453qiabsmu6::::res://addons/Tilemap Trainer/templateTiles.tres<>res://LevelGenerator.cs
+LevelGenerator.cs::CSharpScript::-1::1706244968::0::1::::<><>::
+::res://addons/::1706239472
+Extensions.cs::CSharpScript::-1::1706239472::0::1::::<><>::
+::res://addons/Tilemap Trainer/::1706241114
+plugin.cfg::TextFile::-1::1706239472::0::1::::<><>::
+plugin.cs::CSharpScript::-1::1706239472::0::1::::<><>::
+templateTiles.png::CompressedTexture2D::8131214171655660028::1706239472::1706239491::1::::<><>::
+templateTiles.tres::TileSet::8133456337987884695::1706241114::0::1::::<><>::uid://dn3256j6idrd1::::res://addons/Tilemap Trainer/templateTiles.png
+TilemapHelper.cs::CSharpScript::-1::1706239472::0::1::::<><>::
+TilemapTrainer.cs::CSharpScript::-1::1706239472::0::1::::<><>::
+TilemapTrainer.tscn::PackedScene::5331999725690396097::1706239472::0::1::::<><>::res://addons/Tilemap Trainer/TilemapTrainer.cs
+::res://Assets/::1706239472
+ts_Default.tres::TileSet::8781430798076076750::1706239472::0::1::::<><>::uid://b7rm5y6s0jodr::::res://Assets/Sprites/Tileset.png
+::res://Assets/Sprites/::1706239491
+background.png::CompressedTexture2D::632979888701171181::1706239472::1706239491::1::::<><>::
+cursor.png::CompressedTexture2D::7136955448101954795::1706239472::1706239491::1::::<><>::
+Dirt Tiles.png::CompressedTexture2D::3258404886041996868::1706239472::1706239491::1::::<><>::
+Pickaxe.png::Image::2731006025007628537::1706239472::1706239491::1::::<><>::
+Tileset.png::CompressedTexture2D::4668341588960454407::1706239472::1706239491::1::::<><>::

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KDoODX+jV5mPiR7wkuvgLOqrpXkb8sgEtc80bCuWvayI0qb1ehsQMcVTq6vzVfe6cEp7BecAdzQ/p5BpQQNtA==",
+  "success": true,
+  "projectFilePath": "d:\\Godot\\Projects\\Godot4Practice3\\C# Procedural Terrain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dave5\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\dave5\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\dave5\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
