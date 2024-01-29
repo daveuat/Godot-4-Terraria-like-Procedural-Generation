@@ -15,3 +15,4 @@ d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\refint\C# Procedura
 d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.pdb
 d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.genruntimeconfig.cache
 d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\ref\C# Procedural Terrain.dll
+d:\Godot\Projects\Godot4Practice3\.godot\mono\temp\obj\Debug\C# Procedural Terrain.sourcelink.json

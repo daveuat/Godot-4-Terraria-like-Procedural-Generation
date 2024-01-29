@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Procedural Terrain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80418fe19c9f17d30dfdc44f5fc54dd06e9c79b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Procedural Terrain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Procedural Terrain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
