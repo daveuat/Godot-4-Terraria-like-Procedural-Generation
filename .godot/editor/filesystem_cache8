@@ -1,13 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706491324
+::res://::1706582281
 Camera2D.cs::CSharpScript::-1::1706422622::0::1::::<><>::
 coords.json::JSON::-1::1706239472::0::1::::<><>::
 icon.svg::CompressedTexture2D::5967070362971871455::1706239472::1706239491::1::::<><>::
-Level.tscn::PackedScene::2069666997571037998::1706449813::0::1::::<><>::res://LevelGenerator.cs<>uid://dxd1485nop34m::::res://Assets/ts_Default.tres
-LevelGenerator.cs::CSharpScript::-1::1706449810::0::1::::<>Node2D<>::
+Level.tscn::PackedScene::2069666997571037998::1706581798::0::1::::<><>::res://LevelGenerator.cs<>uid://dxd1485nop34m::::res://Assets/ts_Default.tres
+LevelGenerator.cs::CSharpScript::-1::1706499980::0::1::::<>Node2D<>::
 myCoords.json::JSON::-1::1706334196::0::1::::<><>::
-Player.cs::CSharpScript::-1::1706430259::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::2359609877872015989::1706449814::0::1::::<><>::res://Player.cs<>uid://bv32jdon70y7f::::res://Assets/Sprites/Player/Hero_P1.png<>res://Camera2D.cs
+Player.cs::CSharpScript::-1::1706581796::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::2359609877872015989::1706582281::0::1::::<><>::res://Player.cs<>res://Camera2D.cs<>uid://chy0lq1845gl6::::res://Assets/Sprites/Player/Hero_P1-edit.png
 test.tscn::PackedScene::7235619818221560143::1706343939::0::1::::<><>::uid://dn453qiabsmu6::::res://addons/Tilemap Trainer/templateTiles.tres<>uid://dxd1485nop34m::::res://Assets/ts_Default.tres
 ::res://addons/::1706239472
 Extensions.cs::CSharpScript::-1::1706239472::0::1::::<><>::
@@ -19,13 +19,14 @@ templateTiles.tres::TileSet::8133456337987884695::1706245136::0::1::::<><>::uid:
 TilemapHelper.cs::CSharpScript::-1::1706239472::0::1::::<><>::
 TilemapTrainer.cs::CSharpScript::-1::1706239472::0::1::::<>Control<>::
 TilemapTrainer.tscn::PackedScene::5331999725690396097::1706239472::0::1::::<><>::res://addons/Tilemap Trainer/TilemapTrainer.cs
-::res://Assets/::1706426817
-ts_Default.tres::TileSet::8781430798076076750::1706426817::0::1::::<><>::uid://b7rm5y6s0jodr::::res://Assets/Sprites/Tileset.png
+::res://Assets/::1706579464
+ts_Default.tres::TileSet::8781430798076076750::1706579464::0::1::::<><>::uid://b7rm5y6s0jodr::::res://Assets/Sprites/Tileset.png
 ::res://Assets/Sprites/::1706418959
 background.png::CompressedTexture2D::632979888701171181::1706239472::1706239491::1::::<><>::
 cursor.png::CompressedTexture2D::7136955448101954795::1706239472::1706239491::1::::<><>::
 Dirt Tiles.png::CompressedTexture2D::3258404886041996868::1706239472::1706239491::1::::<><>::
 Pickaxe.png::Image::2731006025007628537::1706239472::1706239491::1::::<><>::
 Tileset.png::CompressedTexture2D::4668341588960454407::1706239472::1706239491::1::::<><>::
-::res://Assets/Sprites/Player/::1706419085
+::res://Assets/Sprites/Player/::1706582369
+Hero_P1-edit.png::CompressedTexture2D::5315246789579805197::1706582385::1706582391::1::::<><>::
 Hero_P1.png::CompressedTexture2D::3919844587987040397::1682472664::1706419085::1::::<><>::

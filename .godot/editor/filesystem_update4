@@ -1,6 +1,6 @@
-res://Level.tscn
-res://Assets/ts_Default.tres
 res://Player.tscn
+res://Assets/ts_Default.tres
+res://Level.tscn
 res://addons/Tilemap Trainer/plugin.cs
 res://addons/Tilemap Trainer/TilemapTrainer.cs
 res://LevelGenerator.cs
